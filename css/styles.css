@@ -7,7 +7,7 @@ body{
 }
 h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 5.0rem;
+    font-size: 3.5rem;
     line-height: 1.5;
 }
 
@@ -44,7 +44,7 @@ h1{
 
 /* title image */
 .title-image{
-    /* width: 60%; */
+    width: 60%;
     transform: rotate(30deg);
 }
 
