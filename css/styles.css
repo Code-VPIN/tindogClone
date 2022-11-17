@@ -47,3 +47,23 @@ h1{
     /* width: 60%; */
     transform: rotate(30deg);
 }
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    padding-bottom: 15px;
+}
+  
+.icon:hover {
+    color: #ff4c68;
+}
